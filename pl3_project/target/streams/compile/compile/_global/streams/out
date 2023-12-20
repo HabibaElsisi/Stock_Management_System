@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:32:7: not found: value displayExtendedMenu[0m
+[0m[[0m[31merror[0m] [0m[0m      displayExtendedMenu()[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:35:19: not found: value addProduct[0m
+[0m[[0m[31merror[0m] [0m[0m        case 1 => addProduct()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:36:19: not found: value deleteProduct[0m
+[0m[[0m[31merror[0m] [0m[0m        case 2 => deleteProduct()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:37:19: not found: value updateProduct[0m
+[0m[[0m[31merror[0m] [0m[0m        case 3 => updateProduct()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:38:19: not found: value viewProductDetails[0m
+[0m[[0m[31merror[0m] [0m[0m        case 4 => viewProductDetails()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:39:19: not found: value viewAllProducts[0m
+[0m[[0m[31merror[0m] [0m[0m        case 5 => viewAllProducts()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\pc\Downloads\pl3_project\src\main\scala\ui\UserInterface.scala:40:19: not found: value generateReport[0m
+[0m[[0m[31merror[0m] [0m[0m        case 6 => generateReport()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

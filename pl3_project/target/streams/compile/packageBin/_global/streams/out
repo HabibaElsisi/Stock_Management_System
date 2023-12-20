@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\pc\Downloads\pl3_project\target\scala-2.13\pl3_project_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handlers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\handlers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handlers\FileHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\handlers\FileHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	inventory.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\inventory.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\InventoryManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\models\InventoryManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\models\Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\models\Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reports[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\reports[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reports\ReportGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\reports\ReportGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\ui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui\UserInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pc\Downloads\pl3_project\target\scala-2.13\classes\ui\UserInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
